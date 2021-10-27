@@ -25,4 +25,4 @@ Chat Application made in Flutter using Firebase. Also added animated splash scre
 This project is still under development.
 
 ## Created & Maintained by 
-[Vaibhav](https://)
+[Vaibhav](https://iamvaibhav.netlify.app/)
