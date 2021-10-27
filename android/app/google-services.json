@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509133846643",
+    "project_id": "py-chat-e841f",
+    "storage_bucket": "py-chat-e841f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509133846643:android:11f1b7cdec51470b939206",
+        "android_client_info": {
+          "package_name": "com.iamvaibhav.py_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509133846643-9i3kui105dtof5lfdth9p25d57j47da6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqkzPnrKT4PEaEEHdsQ5phEjrRwWlwxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509133846643-9i3kui105dtof5lfdth9p25d57j47da6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
